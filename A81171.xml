@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Culpeper revived from the grave, to discover the cheats of that grand impostor call'd Aurum potabile. Wherein is declared the grand falsities thereof, and abuses thereby. Published to undeceive the people, and to stop the violent current of such a mischievous designe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81171</idno>
+            <idno type="STC">Wing C7565</idno>
+            <idno type="STC">Thomason E487_2</idno>
+            <idno type="STC">ESTC R205451</idno>
+            <idno type="EEBO-CITATION">99864828</idno>
+            <idno type="PROQUEST">99864828</idno>
+            <idno type="VID">164035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164035)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 77:E487[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Culpeper revived from the grave, to discover the cheats of that grand impostor call'd Aurum potabile. Wherein is declared the grand falsities thereof, and abuses thereby. Published to undeceive the people, and to stop the violent current of such a mischievous designe.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the moneth of August 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed on p.6: Philaretes, Tantarara, Tantarara, Spittlefield.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Culpeper, Nicholas, 1616-1654. --  Treatise of aurum potabile.</term>
+               <term>Gold --  Therapeutic use --  Early works to 1800.</term>
+               <term>Alchemy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164035:1" rendition="simple:additions"/>
+            <p>CULPEPER REVIVED FROM THE GRAVE, To diſcover the Cheats of that grand Impoſtor, CALL'D <hi>A<g ref="char:V">Ʋ</g>R<g ref="char:V">Ʋ</g>M POTABILE.</hi> Wherein is declared the grand Falſities thereof, and abuſes thereby.</p>
+            <p>Publiſhed to undeceive the people, and to ſtop the vio<g ref="char:EOLhyphen"/>lent current of ſuch a miſchievous Deſigne.</p>
+            <p>Printed in the moneth of <hi>Auguſt</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164035:2"/>
+            <pb n="1" facs="tcp:164035:2"/>
+            <head>Culpepper Revived.</head>
+            <p>
+               <hi>TAntara rara, Tantara rara,</hi> Pray Gentlemenwalk in and ſen the beginning, A very fine ſhew upon my credit. Here is a woman that cures all Diſeaſes with a ſtrange miracu<g ref="char:EOLhyphen"/>lous thing call'd <hi>Aurum Potabile;</hi> and truly ſhe is not much unlike the—of <hi>Babylon</hi> who with her curious golden Potion, hath endeavoured the deluſion of many people. But in the mean time Gentlemen, what will become of them that call Hypocrites <hi>Golden Outſides,</hi> for it may be now their fortune to have golden inſides alſo. Troth 'twas a rare project to enrich the Nation, to make every man a walking <hi>Weſt Indies;</hi> or elſe becauſe every man is ſaid to be a <hi>Microcoſm,</hi> to take care that they ſhould not want golden Mines in their bellies. But, can a poore ſilly woman doe all this? No, ſhe hath two Apple-ſquires, both fellow<g ref="char:EOLhyphen"/>workes, ſharers with her: the one, a Gentleman Phyſitian, who hath no more wit, but to defile his name with ſuch a <hi>Quacking Bill</hi> as he hath fix'd them to; and to venter all his credit to get a be<g ref="char:EOLhyphen"/>liefe in others of ſuch a Legendary ſtory as this woman tells. The other calls himſelfe by the name of <hi>F.</hi> of whom it is reported, that he was grown ſuch a Chymical Mercurialis, that he began a practiſe of extracting out of peoples houſes by force, but being diſcover'd is fled from the puniſhment of his crime, which makes me of opinion that when the ſtock of Gold which he pil<g ref="char:EOLhyphen"/>fer'd is ſpent then the Trade will faile. But as for you Dr. <hi>Aurum Potabile,</hi> or whatever other name you are or ſhall be known by, and laught at, pray take heed, for though the woman be not ſo ſtrong as <hi>Samſon,</hi> yet ſhe will certainly pull down your credit if you let her lean any longer upon your ſhoulders. But heark what a noiſe it makes; ſure 'tis boyling: <hi>The vertues, uſe, and variety of operations of the true and Philoſophical A<g ref="char:V">Ʋ</g>R<g ref="char:V">Ʋ</g>M POTABILE</hi> pray ſtir um a little, leſt theſe vertues ſeeth over. But what a
+<pb n="2" facs="tcp:164035:3"/>coile is here about nothing; as much as to ſay the <hi>vertues</hi> and of a <hi>true and Philoſophicall</hi> thing that never was in being. I thought where we ſhould find <hi>Aurum Potabile</hi> among the <hi>Metaphyſicks.</hi> They begin <hi>Curteous and Friendly Reader,</hi> and truly he muſt be much their courteous friend that credits them. And are not they in a pitiful caſe, that he that believes them muſt doe them a curteſie.</p>
+            <p>For how can that be Philoſophical which being known by the ef<g ref="char:EOLhyphen"/>fect hath need of Teſtimonies to prove it. A Philoſopher ought to enquire out the fit cauſes, conſtitute his axioms, adjoyn the proper<g ref="char:EOLhyphen"/>ties and run over all the firſt parts of invention before he come to the effects, much leſſe ought he to make uſe of Teſtimony which is with<g ref="char:EOLhyphen"/>out the limits of his Art. So that this <hi>Aurum Potabile</hi> can be no means be ſaid to be Philoſophical whoſe cheifeſt argument no way depends upon Phyloſophy. Beſides there is no impartial man for us who hath view'd your volumes both of Philoſophical and Phiſical Authors, both ancient and modern but he will ſo far give his verdit as to bear witneſs how many of theſe famous and learned men have never dreamt of any ſuch matter, how many of them have exploded and condemn'd it as a thing wholly deſtructive and pernicious, who cer<g ref="char:EOLhyphen"/>tainly had they found it convenient would not have conceal'd ſo great a benefit to mankind. And <hi>Crollius</hi> a famous Author doth re<g ref="char:EOLhyphen"/>port that of that he made trial of many of thoſe <hi>Aurum Potabiles</hi> but ſtill after the expence both of time and money alwaies found his la<g ref="char:EOLhyphen"/>bour loſt. Theſe that have brought up this rare invention, what are they? in a word Chymiſts, of whom a man may ſay as St. <hi>Paul</hi> ſpake of the <hi>Cretians,</hi> that they are evil beaſts, alwayes liars, regarding no<g ref="char:EOLhyphen"/>thing but their bellies; they are great boaſters, but ſmall perfor<g ref="char:EOLhyphen"/>mers, and like Taylors eminent for nothing but their long bills, who if they come once to be known, vaniſh into ayre like the ſmoak of their own furnaces. There is now a kinde of conſpiracy in <hi>Spittle-Fields,</hi> being a ſmall Congregation of three, for the third of theſe rare Phoenixes though he have left his neſt holds correſpondence, who have enter'd into a combination, like Fate, Subtle, and <hi>Dol Com<g ref="char:EOLhyphen"/>mon</hi> in <hi>Ben. Johnſons</hi> Alchymiſt to cheat thoſe fools that they think will be catched with a golden bait. To this end they bring you a long liſt of many diſeaſes which it hath cured. But ſo abſurdly ſet together that any man not blind may eaſily diſcern the impoſtures.
+<pb n="3" facs="tcp:164035:3"/>For what is this but the common cuſtome of all Mountebanks; to delude and amuſe, the vulger ſort of people are their patients; a very rare project againſt Bartholmew Faire.</p>
+            <p>They goe on <hi>this precious jewel Aurum Potabile,</hi> as they have confeſt their <hi>Aurum Potabile</hi> to be nothing but a ſtone; Now Gentlemen you know ſtones are very apt to be <hi>potabiles.</hi> But I have found the trick ont, they take their Gold and by an art which they have they turn this Gold into Pearl then they diſſolves this Pearl in Vinegre and ſo make <hi>Aurum Potabile.</hi>
+            </p>
+            <p>But they tell you it cures all Diſeaſes in generall, and thus they furniſh it with contrary and contradictory qualities making one and the ſame thing to have a power both to heat and to coole, to bind and looſen, to cauſe a man to ſleep and to wake; a folly which muſt of neceſſity be laught at by every porter.</p>
+            <p>
+               <hi>If ſtrengthens women in childbed,</hi> A thing very likely, being com<g ref="char:EOLhyphen"/>pos'd of Wine and Vineger, both which torment and inflame thoſe parts. <hi>It cures the Paralytic.</hi> And thus that which was counted a miracle to performe in Chriſt himſelf, Theſe Audacious Quacks dare aſcribe as familiar to their <hi>Aurum Potabile.</hi> If they ſhould ſay that the vehicles of their <hi>Aurum Potabile</hi> are various, thence follows this abſurdity, that there muſt of neceſſity be a greater force in the vehicle then in the Gold it ſelf. They bring an example of a great cure; and we can bring an example of one more ſtrangely cured of a conſumption by <hi>Galens</hi> method who was before almoſt deſtroy'd by the uſe of this <hi>Aurum Potabile.</hi> Having ſhew'd you the folly of this Counterfeit bill we now ſhall bring you ſome arguments againſt the uſe of Gold.</p>
+            <p>Firſt, we finde in the bookes of Ancient Phyſitians many other things ſet down much more agreeable to the temper of man then Gold.</p>
+            <p>Secondly, we firde in <hi>Pliny</hi> a great Philoſopher and ſercher of na<g ref="char:EOLhyphen"/>ture, little ſaid in the praiſe of Gold, but much ſpoken concerning the hurt and inconveniences that attend it.</p>
+            <p>Thirdly we find that Gold doth defile the hands of thoſe that ouch it by reaſon of the ſulphur which is mixt with it.</p>
+            <p>Fourthly, All metals are of an ill taſt and ſulphurous ſmell, which an be no way agreeable to the body's of ſick perſons.</p>
+            <pb n="4" facs="tcp:164035:4"/>
+            <p>Fifthly, No metals can nouriſh becauſe they cannot be concocted and turn'd into blood, and therefore unapt for Phyſical uſes. It is alſo the opinion of <hi>Boraſavolus, Eraſtus, Fallopius,</hi> and others, that which is ſaid of Potable Gold is altogether fabulous, and the uſe of it dange<g ref="char:EOLhyphen"/>rous, for which they bring this reaſon, for if theſe waters which are diſolv'd out of Braſen and Leaden ſtills doe contract the venome of theſe metals, how much more will Gold which being made Potable, ſucks the venome with a greater force of heat, Beſides it is to be fear'd that the gluttinous matter of this Potable Gold may all at length oppilate or ſtop up the mouth of the ſtomach and ſo deſtroy the appetite. If they ſay it is hermetically prepar'd, we muſt affirm that the preparation of Gold by fire doth rather augment then dimi<g ref="char:EOLhyphen"/>niſh, noxious humour cauſing it to retain and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or inflaming quality; neither can they ſo prepar'd by fire alſo be void of hurt; for by the Confeſſion of <hi>Paracelſus</hi> himſelf, fire ſends forth more ſub<g ref="char:EOLhyphen"/>tle poyſons then minerals doe; therefore ſaith <hi>Crollius,</hi> it is better to eate the eyes of a <hi>Bſiliske</hi> mixed with burning fire then to take the venome of Potable Gold. It is the opinions alſo of other learned Phyſitians that there is no diſeaſe which is not fed by a ſalt and vi<g ref="char:EOLhyphen"/>trioled ſpirit, which is rather increas'd and formed then taken away by that ſpirit of ſalt by which Potable Gold is made. Now ſuppoſe that Gold in it ſelf were harmeleſs: Yet let us conſider what be<g ref="char:EOLhyphen"/>comes of it after their Chymical preparation, Firſt it is calcinated, to <hi>Purifie</hi> that which they ſay is the <hi>Pureſt of all metals</hi> and without a<g ref="char:EOLhyphen"/>ny ill quality already. But <hi>Calcinated</hi> it is, that is, reduc'd to aſhes.</p>
+            <p>Then what becomes of the Gold, or at leaſt of the vertue of the Gold? It is by <hi>Praecipitation,</hi> or <hi>cementing</hi> brought back again, both which are perform'd by corrofives or by <hi>Amalguma</hi> which is done with <hi>Mercurie,</hi> and with what danger ask the Gold Smiths? If they ſay it may be diſſolved; perhaps it may; but by no other way then by <hi>corroſive</hi> waters as <hi>Aqua Regis</hi> &amp;c. which are compounded of <hi>Aqua fortis</hi> and <hi>Sal Amoniack,</hi> and other ſuch like ingredients, which being thus incorporated into the Gold without any poſſibility of ſe<g ref="char:EOLhyphen"/>paration doubtleſs do make their Potable Gold not ſo uſeful as they imagine to the body's of weak and ſick perſons. Neither is this all which is done by their Chymiſtry, for they impurely ſeparate that which was ſo purely compos'd before, and by ſo doing they doe not
+<pb n="5" facs="tcp:164035:4"/>onely ſoften the hard maſs or boyle out the <hi>matter</hi> which is the <hi>force and quality,</hi> but they deſtroy the Metallic forme it ſelf, ſo that the Gold ceaſeth to be that which it was, for the form of the Gold being deſtroy'd the Gold muſt of neceſſity be deſtroyed. Where is then this Potable Gold ſo much talkt of? Thus have we diſcover'd to you the abominable fraud of theſe impoſtors, who inſtead of their uſeful tincture ſell you nothing but meer colours and painting ſtuffe, and inſtead of Potable Gold a mixture of <hi>Mercurie,</hi> Vinegre, Sal am<g ref="char:EOLhyphen"/>moniack, and Tartar, things that of all others as they prepare them are the moſt deſtructive to humane body's.</p>
+            <p>But they ſay that they will referre to a Treatiſe which being now coming forth from a ſilly and confident woman &amp; others, the Reader may be aſſur'd to be no other then the borrow'd and tranſlated Li<g ref="char:EOLhyphen"/>bells of theſe bragging Mountebanks who have been ſo often confu<g ref="char:EOLhyphen"/>ted by the moſt learned Authors. How many hundred perſons the thing it ſelf hath deſtroyed their are enough to witneſs. And there<g ref="char:EOLhyphen"/>fore we cannot chuſe but teſtifie to the world the unſpeakable Dammage of ſuch a book as would intice men under ſuch Golden pretences into their utter ruine. How much the thing and book it ſelf is a grand abuſe may appear by the perſons that carry it on; ſuch whom partly deſpare of livelihood, and partly a continual habit of Deluding hath hardened to an Impudence ſo deſtructive to the Na<g ref="char:EOLhyphen"/>tion, neither will they ſtick to defile the fame of the dead ſo they may gain their ends. Thus are they now obtruding upon <hi>Culpepers</hi> name their pernicious libel to gain credit upon the people, where<g ref="char:EOLhyphen"/>as there is nothing more falſe then that he made it, as is manifeſt by the copie, which was never writ by his hand, though it were the cu<g ref="char:EOLhyphen"/>ſtome of that laborious Author alwaies ſo to do. Since then the book is ſo notorious a fraud, what may we then think of that <hi>Aurum Pota<g ref="char:EOLhyphen"/>bile</hi> which it treats of. Theſe are therefore to give notice to the peo<g ref="char:EOLhyphen"/>ple how they buy their own deſtruction from the hands of any Mountebank, whether in <hi>Spittle-Fields</hi> or elſe where, Hoping they will be as little deluded by any ſpecious pretences, which the Statio<g ref="char:EOLhyphen"/>ner not farre from <hi>Leaden-Hall</hi> ſhall caſt over this Illegitimate Libel to the injurie of the dead; not ſuffering him to reſt quiet in his grave, though by his oppreſſive practiſes and hard impriſonment he
+<pb n="6" facs="tcp:164035:5"/>had ſo ſoon brought him hither; after he had got the moſt part of his eſtate by his Label, yet ſtill intends to obtrude printed papers in<g ref="char:EOLhyphen"/>to the world which he never writ. If this ſuffice not we ſhall give a further account of him and the reſt of them hereafter. Thus we have given a faithful account of this impoſture of <hi>Aurum Potabile</hi> which we deſire the people to believe for no other reaſon but for their own good.</p>
+            <closer>Philaretes, Tantarara, Tantarara, Spittlefield.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
